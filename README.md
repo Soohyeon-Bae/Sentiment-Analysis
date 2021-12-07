@@ -3,6 +3,7 @@
 2021학년도 2학기 '비정형데이터분석' 팀프로젝트
 
 - - -
+코로나 관련 트위터 감정분석
 
 https://www.kaggle.com/datatattle/covid-19-nlp-text-classification 
 
