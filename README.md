@@ -4,7 +4,8 @@
 
 - - -
 
-https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
+https://www.kaggle.com/datatattle/covid-19-nlp-text-classification 
+
 ---
 
 ## 개발일지
@@ -24,4 +25,5 @@ https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
 - - -
 # Reference
 https://www.kaggle.com/datatattle/covid-19-tweets-eda-viz
+
 https://www.kaggle.com/datatattle/battle-of-ml-classification-models
